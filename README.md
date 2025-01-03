@@ -21,3 +21,7 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
 </div>
 
 
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <button>Buton 1</button>
+  <button>Buton 2</button>
+</div>
