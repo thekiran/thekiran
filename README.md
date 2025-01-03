@@ -2,6 +2,7 @@
 I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and cybersecurity.
 
 [![wakatime](https://wakatime.com/badge/user/cef45e7a-ee97-4a47-a568-86349b210b0d.svg)](https://wakatime.com/@cef45e7a-ee97-4a47-a568-86349b210b0d)
+
 ![Visitor Count](https://profile-counter.glitch.me/888KIRAN/count.svg)
 
 <p align="center">
