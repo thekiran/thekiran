@@ -1,5 +1,5 @@
-# Merhaba! 👋  
-Ben Muhammed Emin Kıran. 🌟 Yazılım geliştirme ve siber güvenlik ile ilgileniyorum.
+#Hello! 👋
+I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and cybersecurity.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=888KIRAN&show_icons=true&theme=radical&count_private=true" width="45%" />
