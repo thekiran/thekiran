@@ -16,3 +16,13 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=888KIRAN&apikey=waka_24e9ea78-a54c-47be-8523-65f01926dbf6&theme=radical" alt="Wakatime Stats" style="margin-right: 20px;"/>
   <img src="https://media.giphy.com/media/kg9fAQryp5fMY/giphy.gif?cid=ecf05e470wh12s9k2i5i4cih23b1749b85cx2yq7bk4hx9yg&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="3D Animation" />
 </div>
+
+
+
+
+# OpenGL Projeleri
+Benim GitHub profilim, OpenGL kullanarak geliştirdiğim projeleri içeriyor. Bu projeler, grafiksel uygulamalar, oyunlar ve shader efektleri gibi çeşitli konuları kapsıyor.
+
+- **[OpenGL 3D Oyun Projesi](link_to_project)**: OpenGL kullanarak 3D bir oyun geliştirdim.
+- **[Shader Uygulaması](link_to_project)**: OpenGL ile görsel efektler oluşturduğum projeler.
+- **[Basit Animasyonlar](link_to_project)**: OpenGL ile 2D animasyonları gerçekleştirdim.
