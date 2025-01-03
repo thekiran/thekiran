@@ -21,3 +21,26 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
 </div>
 
 
+<div style="width: 100%; height: 200px; position: relative; overflow: hidden; background-color: #f0f0f0;">
+  <div id="moving-box" style="
+      width: 50px; 
+      height: 50px; 
+      background-color: #ff5733; 
+      position: absolute; 
+      top: 50%; 
+      left: 0; 
+      transform: translateY(-50%);
+      animation: move 5s linear infinite;">
+  </div>
+</div>
+
+<style>
+  @keyframes move {
+    0% {
+      left: 0;
+    }
+    100% {
+      left: 100%;
+    }
+  }
+</style>
