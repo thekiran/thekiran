@@ -18,11 +18,5 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
 </div>
 
 
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=888KIRAN&theme=dark)
 
-
-# OpenGL Projeleri
-Benim GitHub profilim, OpenGL kullanarak geliştirdiğim projeleri içeriyor. Bu projeler, grafiksel uygulamalar, oyunlar ve shader efektleri gibi çeşitli konuları kapsıyor.
-
-- **[OpenGL 3D Oyun Projesi](link_to_project)**: OpenGL kullanarak 3D bir oyun geliştirdim.
-- **[Shader Uygulaması](link_to_project)**: OpenGL ile görsel efektler oluşturduğum projeler.
-- **[Basit Animasyonlar](link_to_project)**: OpenGL ile 2D animasyonları gerçekleştirdim.
