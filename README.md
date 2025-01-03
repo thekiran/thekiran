@@ -19,4 +19,4 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
 
 
 
-![Snake Game](https://github.com/888KIRAN/888KIRAN/blob/output/github-contribution-grid-snake.svg)
+![Snake Game](https://github-readme-streak-stats.herokuapp.com/?user=888KIRAN&theme=radical)
