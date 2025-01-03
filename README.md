@@ -12,7 +12,9 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=888KIRAN&theme=radical)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=888KIRAN&apikey=waka_24e9ea78-a54c-47be-8523-65f01926dbf6&theme=radical)
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=888KIRAN&apikey=waka_24e9ea78-a54c-47be-8523-65f01926dbf6&theme=radical" alt="Wakatime Stats" style="margin-right: 20px;"/>
+  <img src="https://media.giphy.com/media/kg9fAQryp5fMY/giphy.gif?cid=ecf05e470wh12s9k2i5i4cih23b1749b85cx2yq7bk4hx9yg&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="3D Animation" />
+</div>
 
-![3D Animation](https://media.giphy.com/media/kg9fAQryp5fMY/giphy.gif?cid=ecf05e470wh12s9k2i5i4cih23b1749b85cx2yq7bk4hx9yg&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 
