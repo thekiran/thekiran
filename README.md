@@ -1,8 +1,6 @@
 #Hello! 👋
 I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and cybersecurity.
 
-[![Wakatime Total Time](https://img.shields.io/badge/Wakatime-%E2%9C%94%20Total%20Time%20Spent-blue)](https://wakatime.com/@888KIRAN)
-
 [![wakatime](https://wakatime.com/badge/user/cef45e7a-ee97-4a47-a568-86349b210b0d.svg)](https://wakatime.com/@cef45e7a-ee97-4a47-a568-86349b210b0d)
 ![Visitor Count](https://profile-counter.glitch.me/888KIRAN/count.svg)
 
