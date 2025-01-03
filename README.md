@@ -13,3 +13,4 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=888KIRAN&theme=radical)
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=888KIRAN&apikey=waka_24e9ea78-a54c-47be-8523-65f01926dbf6&theme=radical)
+I'm currently listening to [Imagine Dragons - Believer](https://open.spotify.com/track/xyz) on Spotify.
