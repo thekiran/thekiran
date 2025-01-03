@@ -13,4 +13,3 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=888KIRAN&theme=radical)
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=888KIRAN&apikey=waka_24e9ea78-a54c-47be-8523-65f01926dbf6&theme=radical)
-[![Currently Listening](https://img.shields.io/badge/Currently%20Listening-Imagine%20Dragons-blue)](https://open.spotify.com)
