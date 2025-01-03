@@ -10,6 +10,6 @@
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=888KIRAN&theme=gruvbox)
-# 888KIRAN Wakatime İstatistikleri
+# [Kullanıcı Adı] Wakatime İstatistikleri
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=888KIRAN&apikey=waka_f6908158-4a6b-4ce8-a2eb-0f9aa6eb26e6&theme=radical)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=[WAKATIME_USERNAME]&apikey=waka_f6908158-4a6b-4ce8-a2eb-0f9aa6eb26e6&theme=radical)
