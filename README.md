@@ -18,5 +18,5 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
 </div>
 
 
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=888KIRAN&theme=dark)
 
+![Snake Game](https://github.com/888KIRAN/888KIRAN/blob/output/github-contribution-grid-snake.svg)
