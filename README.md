@@ -15,5 +15,5 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=888KIRAN&apikey=waka_24e9ea78-a54c-47be-8523-65f01926dbf6&theme=radical)
 
 
-[![Watch 3D Video]([https://img.shields.io/badge/Watch%203D%20Video%20-%20YouTube%20-orange](https://www.youtube.com/watch?v=F0wG1WL2AQY))]([https://www.youtube.com/watch?v=your_video_link](https://www.youtube.com/watch?v=F0wG1WL2AQY))
+[![Watch 3D Video](https://img.shields.io/badge/Watch%203D%20Video%20-%20YouTube%20-orange)](https://www.youtube.com/watch?v=F0wG1WL2AQY)
 
