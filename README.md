@@ -10,7 +10,6 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
 ![Game Progress](https://img.shields.io/badge/%20Level-2-green)
 
 
-![Visitor Count](https://profile-counter.glitch.me/888KIRAN/count.svg)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=888KIRAN&show_icons=true&theme=radical&count_private=true" width="45%" />
