@@ -13,6 +13,3 @@
 # 888KIRAN Wakatime İstatistikleri
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=888KIRAN&apikey=waka_f6908158-4a6b-4ce8-a2eb-0f9aa6eb26e6&theme=radical)
-
-
-
