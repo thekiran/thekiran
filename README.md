@@ -1,5 +1,8 @@
 #Hello! 👋
 I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and cybersecurity.
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
 
 [![wakatime](https://wakatime.com/badge/user/cef45e7a-ee97-4a47-a568-86349b210b0d.svg)](https://wakatime.com/@cef45e7a-ee97-4a47-a568-86349b210b0d)
 ![Game Progress](https://img.shields.io/badge/%20Level-2-green)
