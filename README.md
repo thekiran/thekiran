@@ -6,7 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=888KIRAN&layout=compact&theme=radical" width="45%" />
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=888KIRAN&layout=compact&theme=tokyonight)
 
 
 
