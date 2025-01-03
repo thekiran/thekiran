@@ -19,4 +19,4 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=888KIRAN&theme=radical)
+![Adventure Badge](https://img.shields.io/badge/Level%20Up%20-%F0%9F%8F%83-green)
