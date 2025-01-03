@@ -21,3 +21,9 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
 
 
 
+<div align="center" style="background-color: #282a36; padding: 20px; border-radius: 15px; border: 2px solid #ff79c6; display: inline-block;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=888KIRAN&apikey=waka_24e9ea78-a54c-47be-8523-65f01926dbf6&theme=radical" 
+    alt="Wakatime Stats" 
+    style="border-radius: 10px; width: 80%; max-width: 500px; height: auto;"/>
+</div>
