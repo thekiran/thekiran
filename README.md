@@ -20,3 +20,15 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
 
 
 
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://img.shields.io/badge/Technology-Passion-blue?style=for-the-badge&logo=python" alt="Tech Passion" />
+  <img src="https://img.shields.io/badge/Project-Open%20Source-green?style=for-the-badge&logo=github" alt="Project" />
+</div>
+
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <img src="https://img.shields.io/badge/Skill-Coding%20Magic%20-%23ff8c00?style=for-the-badge&logo=javascript" alt="Coding Magic" />
+</div>
+
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <img src="https://media.giphy.com/media/kg9fAQryp5fMY/giphy.gif?cid=ecf05e470wh12s9k2i5i4cih23b1749b85cx2yq7bk4hx9yg&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="3D Animation" width="70%" />
+</div>
