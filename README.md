@@ -13,15 +13,15 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
 
 ![Visitor Count](https://profile-counter.glitch.me/888KIRAN/count.svg)
 
-
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=888KIRAN&show_icons=true&theme=radical&count_private=true" style="width: 50%;" />
-    <p align="right">
-    <img src="https://media.giphy.com/media/12Tob44HkDJty8/giphy.gif?cid=790b7611a61u6q0aj3avro5ose07hp1u05fttg6pgzdh932o&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width: 50%;" />
-    <img src="https://media.giphy.com/media/VvoYXi1SfFplFXfEEG/giphy.gif?cid=790b7611zg6dekujxr8d6ykk9ek8v1lorftqv2xbjk4c0soj&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="width: 50%;" />
-</p>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=888KIRAN&apikey=waka_24e9ea78-a54c-47be-8523-65f01926dbf6&theme=radical" style="width: 50%;" />
 </p>
+
+<p align="right">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJoa3Y5cWYxb3ljdzUzZmE0dGYyd3BteXN6YTRpcjhodmhjdDRhZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5YnqVFp6SWz3bcWqZh/giphy.gif" style="width: 50%;" />
+</p>
+
 
 
 
