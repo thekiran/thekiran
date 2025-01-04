@@ -1,9 +1,6 @@
 #Hello! 👋
 I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and cybersecurity.
 
-
-![Visitor Count](https://img.shields.io/badge/Visitors-Count%20Blue%20Shields%20For%20You-ff69b4?style=for-the-badge&logo=github)
-
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
