@@ -35,4 +35,4 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
 </div>
 
 
-<img src="https://media.giphy.com/media/tsRql3MS8fAMykZ2jM/giphy.gif?cid=ecf05e47flgrwzxdkjx322ppne67qq55dvyv3ji7bmttego7&ep=v1_gifs_related&rid=giphy.gif&ct=s" style="width: 600%;" />
+![GIF](https://media.giphy.com/media/THUvHBdY98CrGEVmCF/giphy.gif?cid=ecf05e47dulnl4zgm2kyip0affd39osvmuaofhfog622ypd9&ep=v1_gifs_related&rid=giphy.gif&ct=s)
