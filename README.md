@@ -11,8 +11,6 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
 [![wakatime](https://wakatime.com/badge/user/cef45e7a-ee97-4a47-a568-86349b210b0d.svg)](https://wakatime.com/@cef45e7a-ee97-4a47-a568-86349b210b0d)
 ![Game Progress](https://img.shields.io/badge/%20Level-100-red)
 
-![Visitor Count](https://profile-counter.glitch.me/888KIRAN/count.svg)
-
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=888KIRAN&show_icons=true&theme=radical&count_private=true" style="width: 50%; display: inline-block;" />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=888KIRAN&apikey=waka_24e9ea78-a54c-47be-8523-65f01926dbf6&theme=radical" style="width: 50%; display: inline-block;" />
