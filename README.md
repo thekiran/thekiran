@@ -2,7 +2,7 @@
 I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and cybersecurity.
 
 
-![Visitor Badge](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Visitors&query=%24.visitor_count&url=https%3A%2F%2Fapi.countapi.xyz%2Fcreate%2Fgithub%2F888KIRAN%2Fvisitor%2F)
+![Visitor Count](https://komarev.com/ghpvc/?username=888KIRAN&color=brightgreen&style=flat)
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
