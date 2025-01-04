@@ -19,9 +19,9 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
 </p>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHUwcWV1bnJoNGtkd3NjbmMyczZzNzdlN3JiMnk4OHlwNHcycm10ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3o85xsx3fOymPblfUc/giphy.gif" style="width: 15%; display: inline-block;" />
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHUwcWV1bnJoNGtkd3NjbmMyczZzNzdlN3JiMnk4OHlwNHcycm10ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3o85xsx3fOymPblfUc/giphy.gif" style="width: 15%; display: inline-block;" />
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHUwcWV1bnJoNGtkd3NjbmMyczZzNzdlN3JiMnk4OHlwNHcycm10ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3o85xsx3fOymPblfUc/giphy.gif" style="width: 15%; display: inline-block;" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHUwcWV1bnJoNGtkd3NjbmMyczZzNzdlN3JiMnk4OHlwNHcycm10ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3o85xsx3fOymPblfUc/giphy.gif" style="width: 5%; display: inline-block;" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHUwcWV1bnJoNGtkd3NjbmMyczZzNzdlN3JiMnk4OHlwNHcycm10ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3o85xsx3fOymPblfUc/giphy.gif" style="width: 5%; display: inline-block;" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHUwcWV1bnJoNGtkd3NjbmMyczZzNzdlN3JiMnk4OHlwNHcycm10ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3o85xsx3fOymPblfUc/giphy.gif" style="width: 5%; display: inline-block;" />
  </p>  
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=888KIRAN&theme=radical)
