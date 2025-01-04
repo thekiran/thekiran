@@ -1,5 +1,6 @@
 #Hello! 👋
 I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and cybersecurity.
+![Visitor Count](https://komarev.com/ghpvc/?username=888KIRAN&color=blue&style=flat-square)
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
