@@ -13,10 +13,20 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
 
 ![Visitor Count](https://profile-counter.glitch.me/888KIRAN/count.svg)
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=888KIRAN&show_icons=true&theme=radical&count_private=true" style="width: 50%; height: 50%; float: left;" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=888KIRAN&apikey=waka_24e9ea78-a54c-47be-8523-65f01926dbf6&theme=radical" alt="Wakatime Stats" style="width: 50%; height: 50%; float: left;" />
-</p>
+<div style="display: flex;">
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=888KIRAN&show_icons=true&theme=radical&count_private=true" 
+         style="width: 33%; height: auto; margin-right: 10px;" />
+
+    <!-- Wakatime Stats -->
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=888KIRAN&apikey=waka_24e9ea78-a54c-47be-8523-65f01926dbf6&theme=radical" 
+         style="width: 33%; height: auto; margin-right: 10px;" />
+
+    <!-- GIF -->
+    <img src="https://media.giphy.com/media/12Tob44HkDJty8/giphy.gif?cid=790b7611a61u6q0aj3avro5ose07hp1u05fttg6pgzdh932o&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
+         alt="GIF" style="width: 33%; height: auto;" />
+</div>
+
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=888KIRAN&theme=radical)
