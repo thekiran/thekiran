@@ -8,7 +8,7 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
 <img src="https://media.giphy.com/media/12Tob44HkDJty8/giphy.gif?cid=790b7611a61u6q0aj3avro5ose07hp1u05fttg6pgzdh932o&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width: 12%;" />
 
 [![Hack The Box Rozetim](https://www.hackthebox.eu/badge/image/42767)](https://www.hackthebox.com/home/users/CekF839nZgwGavhQW1yWp0cNrD72ONt8OCP11X4yT1RWubOkfpiLXN7X14MD)
-[![wakatime](https://wakatime.com/badge/user/cef45e7a-ee97-4a47-a568-86349b210b0d.svg)](https://wakatime.com/@cef45e7a-ee97-4a47-a568-86349b210b0d)
+[![wakatime](https://wakatime.com/badge/user/e627c804-72e5-4b59-a0dc-6f2d25b2aebe.svg)](https://wakatime.com/@e627c804-72e5-4b59-a0dc-6f2d25b2aebe)
 ![Game Progress](https://img.shields.io/badge/%20Level-100-red)
 
 <p align="left">
