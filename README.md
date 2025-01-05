@@ -18,7 +18,7 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
 
 # C++ Aktivitelerim
 
-[![wakatime](https://wakatime.com/badge/user/2623cbbd-3d50-45a2-b800-07919597d6d2.svg)](https://wakatime.com/@2623cbbd-3d50-45a2-b800-07919597d6d2)
+[![wakatime](https://wakatime.com/badge/user/888KIRAN.svg)](https://wakatime.com/@888KIRAN)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=888KIRAN&theme=radical)
 
