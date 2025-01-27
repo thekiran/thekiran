@@ -11,11 +11,11 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
 ![Game Progress](https://img.shields.io/badge/%20Level-100-red)
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=888KIRAN&show_icons=true&theme=radical&count_private=true" style="width: 50%; display: inline-block;" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=888KIRAN&apikey=57300a30-0fa7-422f-97ed-fc9abf4e1092&theme=radical" style="width: 50%; display: inline-block;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=888KIRAN&show_icons=true&theme=dark&count_private=true" style="width: 50%; display: inline-block;" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=888KIRAN&apikey=57300a30-0fa7-422f-97ed-fc9abf4e1092&theme=dark" style="width: 50%; display: inline-block;" />
 </p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=888KIRAN&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=888KIRAN&theme=github-dark)
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
    <img src="https://wakatime.com/share/@888KIRAN/314aee72-39a1-4948-bc9b-51cbc8d0cd01.svg" style="width: 150%;">
