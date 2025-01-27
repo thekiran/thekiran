@@ -19,6 +19,6 @@ I'm Muhammed Emin Kıran. 🌟 I’m passionate about software development and c
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=888KIRAN&layout=compact&theme=radical" width="45%" />  
-  <img src="https://media.giphy.com/media/kg9fAQryp5fMY/giphy.gif?cid=ecf05e470wh12s9k2i5i4cih23b1749b85cx2yq7bk4hx9yg&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="3D Animation" width="47%" />
+  <img src="https://media.giphy.com/media/kg9fAQryp5fMY/giphy.gif?cid=ecf05e470wh12s9k2i5i4cih23b1749b85cx2yq7bk4hx9yg&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="3D Animation" width="44%" />
 </div>
 
