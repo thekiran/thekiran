@@ -7,7 +7,6 @@ I’m passionate about software development and cybersecurity.
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 [![wakatime](https://wakatime.com/badge/user/cef45e7a-ee97-4a47-a568-86349b210b0d.svg)](https://wakatime.com/@cef45e7a-ee97-4a47-a568-86349b210b0d)
-![Game Progress](https://img.shields.io/badge/%20Level-100-red)
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=888KIRAN&theme=github-dark)
