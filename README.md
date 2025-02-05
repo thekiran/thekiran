@@ -1,5 +1,27 @@
-I'm Muhammed Emin Kıran.  
-I’m passionate about software development and cybersecurity.
+</h1>
+<h1 align="center">I'm Muhammed Emin Kıran.</h1>
+
+<h4 align="left">I’m passionate about software development and cybersecurity.</h4>
+
+ 
+
+ <div align="center">
+<a href="https://github.com/888KIRAN">
+  <img width="150px" 
+       src="https://komarev.com/ghpvc/?username=888KIRAN&label=Profile%20views&color=318CE7&style=for-the-badge" 
+       alt="Profile views" /></a>
+<a href="https://api.github-star-counter.workers.dev/user/888KIRAN">
+  <img width="115px" 
+       alt="Total stars" 
+       title="Total stars on GitHub" 
+       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/888KIRAN" /></a>
+<a href="https://github.com/JoshuaThadi?tab=followers">
+  <img width="147px" 
+       alt="Followers" 
+       title="Follow me on GitHub" 
+       src="https://custom-icon-badges.herokuapp.com/github/followers/888KIRAN?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
+ </div>
+
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
