@@ -1,9 +1,10 @@
 </h1>
-<h1 align="center">I'm Muhammed Emin Kıran.</h1>
-
-<h4 align="left">I’m passionate about software development and cybersecurity.</h4>
-
- 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=I'm+Muhammed+Emin+K%C4%B1ran." alt="Typing SVG" />
+  </a>
+</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=600&lines=I%E2%80%99m+passionate+about+software+development+and+cybersecurity." alt="Typing SVG" /></a> 
 
  <div align="center">
 <a href="https://github.com/888KIRAN">
