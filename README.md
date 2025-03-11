@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body style="background-color: black;">
+
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=10&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&repeat=false&random=true&width=1000&lines=%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%C2%B8%2C%C3%B8%C2%A4%C2%BA%C2%B0%60%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%2C%C3%B8%C2%A4%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%C2%B8%2C%C3%B8%C2%A4%C2%BA%C2%B0%60%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%C2%B8%2C%C3%B8%C2%A4%C2%BA%C2%B0%60%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%2C%C3%B8%C2%A4%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%C2%B8%2C%C3%B8%C2%A4%C2%BA%C2%B0%60%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%C2%B8%2C%C3%B8%C2%A4%C2%BA%C2%B0%60%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%2C%C3%B8%C2%A4%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%C2%B8%2C%C3%B8%C2%A4%C2%BA%C2%B0%60%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%C2%B8%2C%C3%B8%C2%A4%C2%BA%C2%B0%60%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%2C%C3%B8%C2%A4%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%C2%B8%2C%C3%B8%C2%A4%C2%BA%C2%B0%60%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%C2%B8%2C%C3%B8%C2%A4%C2%BA%C2%B0%60%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%2C%C3%B8%C2%A4%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%C2%B8%2C%C3%B8%C2%A4%C2%BA%C2%B0%60%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%C2%B8%2C%C3%B8%C2%A4%C2%BA%C2%B0%60%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%2C%C3%B8%C2%A4%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8%C2%B8%2C%C3%B8%C2%A4%C2%BA%C2%B0%60%C2%B0%C2%BA%C2%A4%C3%B8%2C%C2%B8" alt="Typing SVG" /></a>
 </h1>
 <div align="center">
@@ -23,18 +31,6 @@
        title="Follow me on GitHub" 
        src="https://custom-icon-badges.herokuapp.com/github/followers/888KIRAN?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
  </div>
-
-
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-[![wakatime](https://wakatime.com/badge/user/cef45e7a-ee97-4a47-a568-86349b210b0d.svg)](https://wakatime.com/@cef45e7a-ee97-4a47-a568-86349b210b0d)
-
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=888KIRAN&theme=github-dark)
-
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
    <img src="https://wakatime.com/share/@888KIRAN/314aee72-39a1-4948-bc9b-51cbc8d0cd01.svg" style="width: 150%;">
   
@@ -45,3 +41,6 @@
 </div>
 
 
+
+</body>
+</html>
